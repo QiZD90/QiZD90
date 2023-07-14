@@ -3,6 +3,7 @@ I'm currently studying Applied Informatics at RSUH in Moscow. I like clean backe
 
 ## My experience
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ffd43b?style=for-the-badge&logo=python&logoColor=blue)
 ![C](https://img.shields.io/badge/C-00599c?style=for-the-badge&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-ce422b?style=for-the-badge&logo=rust&logoColor=281c1c) <!-- Colors of Rust the Game logo, how ironic -->
